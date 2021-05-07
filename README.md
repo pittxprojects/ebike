@@ -32,6 +32,7 @@ _This project was conducted as part of the Spring 2021 XProject cohort. The XPro
 ## License
 
 [![CC license](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License].
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
