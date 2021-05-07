@@ -15,7 +15,7 @@ Included in this repository is:
 
 Our how-to video can be found [here].
 ## Authors & Contributors
-_This project was conducted as part of the Spring 2021 XProject cohort. The XProjects are administeredby the Innovation, Design, and Entrepreneruship Department at the Swanson School of Engineering at the University of Pittsburgh._
+_This project was conducted as part of the Spring 2021 XProject cohort. The XProjects are administered by the Innovation, Design, and Entrepreneruship Department at the Swanson School of Engineering at the University of Pittsburgh._
 
 Maya Roman – Junior ME Student
 Peter DeNicola – Junior ME Student
