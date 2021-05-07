@@ -17,17 +17,17 @@ Our how-to video can be found [here].
 ## Authors & Contributors
 _This project was conducted as part of the Spring 2021 XProject cohort. The XProjects are administered by the Innovation, Design, and Entrepreneurship Department at the Swanson School of Engineering at the University of Pittsburgh._
 
-Maya Roman – Junior ME Student
-Peter DeNicola – Junior ME Student
-John Rozzo – Sophomore EE Student
-Nick Bohn – Senior ME Student
+- Maya Roman – Junior ME Student
+- Peter DeNicola – Junior ME Student
+- John Rozzo – Sophomore EE Student
+- Nick Bohn – Senior ME Student
 
-Stephen Spencer – Project Sponsor
-Brandon Barber – Project Coordinator
-Daniel Yates – Project Coordinator
-William Clark – Project Coordinator
+- Stephen Spencer – Project Sponsor
+- Brandon Barber – Project Coordinator
+- Daniel Yates – Project Coordinator
+- Dr. William Clark – Project Coordinator
 
-Thick Bikes (Pittsburgh, PA) – Bike Donor
+- Thick Bikes (Pittsburgh, PA) – Bike Donor
 
 ## License
 
